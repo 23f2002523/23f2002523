@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=58A6FF&background=00000000&center=true&width=500&lines=Sagar+this+side+.....;IIT+Madras+BS+Data+Science;AI+%2F+ML+Engineer;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=58A6FF&background=00000000&center=true&width=500&lines=Sagar+this+side+.....;IIT+Madras+2027;AI+%2F+ML+Engineer;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -50,7 +50,6 @@
 
 ![Batch](https://img.shields.io/badge/Batch-2027-blue?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-Chennai-informational?style=for-the-badge)
-![Mode](https://img.shields.io/badge/Mode-Online+%2B+Campus-success?style=for-the-badge)
 
 **Relevant Coursework**
 
