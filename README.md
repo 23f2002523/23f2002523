@@ -66,7 +66,7 @@
 ## 💼 Experience
 
 ### 👁️ Computer Vision Engineer Intern — [Anitum Technologies Pvt. Ltd.](https://www.anitum.in/)
-**Nov 2025 – Present | Chennai**
+**Nov 2025 – March 2026 | Chennai**
 
 - Working on real-world computer vision pipelines for production-level AI systems.
 - Building and fine-tuning vision models for object detection and image analysis tasks.
